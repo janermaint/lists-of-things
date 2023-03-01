@@ -1,0 +1,24 @@
+{
+  "movies": [
+  {
+    "movie": "Star Wars",
+    "director": "George Lucas"
+  },
+  {
+    "movie": "Jaws",
+    "director": "Steven Spielberg"
+  },
+  {
+    "movie": "Back to the Future",
+    "director": "Robert Zemeckis"
+  },
+  {
+    "movie": "Plan 9 From Outer Space",
+    "director": "Ed Wood"
+  },
+  {
+    "movie": "The Hurt Locker",
+    "director": "Katherine Bigelow"
+  },
+  ]
+}
